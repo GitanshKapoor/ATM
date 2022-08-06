@@ -9,7 +9,7 @@ You can Access the Source Code from Above.
 
 **Language:** Java.
 
-**Graphic Tools:** IntelliJ, JDK.
+**Tools:** IntelliJ, JDK.
 
 **Hosting:** Github.
 

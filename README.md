@@ -13,6 +13,3 @@ You can Access the Source Code from Above.
 
 **Hosting:** Github.
 
-
-![Logo](https://www.oracle.com/a/tech/img/rc10-java-badge-3.png)
-
